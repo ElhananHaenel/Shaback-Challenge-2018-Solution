@@ -1,8 +1,8 @@
 # Shaback-Challenge-2018-solution
 
-## Opening Challenge
+ ![alt text](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/1.jpg)
 
-### Overview
+## Opening Challenge
 The opening challenge starts with a page displaying the Shin Bet (Shabak) logo. Initially, the page seems unremarkable, but hovering over the logo reveals a map. Zooming in on the map, six marked points become visible, each containing shapes that form letters when viewed up close. The letters spell "JOINUS," marking the start of the challenge.
 
 ### Step-by-Step Solution
