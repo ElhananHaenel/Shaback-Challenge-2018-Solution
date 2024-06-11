@@ -1,10 +1,8 @@
-Your README file is looking great! I made some adjustments to improve readability and clarity. Here's the revised version:
-
----
-
 # Shaback Challenge 2018 Solution
 
 **Solution provided by:** Elhanan Haenel
+
+**Note:** All challenge files are uploaded except for the third level due to its large file size (2GB).
 
 ## The Shabak Challenge Adventure
 
@@ -18,6 +16,8 @@ This unexpected change revealed six marked points on the map. Intrigued, I zoome
 
 With excitement, I embarked on the software and data science track.
 
+##Stage One: Find The Code
+
 The first stage presented a ZIP file that required a password to unlock. Knowing this would be a tough nut to crack, I used `Fcrakzip` on `rockyou.txt` wordlist to perform a dictionary attack.
 
 ![ZIP File](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/4.jpg)
@@ -27,6 +27,8 @@ After some effort, I successfully decrypted the ZIP file. Inside, I found two im
 ![Decrypted Image](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/6.jpg)
 
 With the correct answer in hand, I advanced to the next stage.
+
+##Stage Two: The Persian
 
 In the second stage, I was given an image file that refused to open normally. I turned to a Hex Editor to dig deeper into the file. The hex values translated into the phrase: "return in base64 sum values below median." Additionally, I noticed a recurring pattern "U05," which represented Hebrew letters. Realizing that I needed to calculate the gematria values (Hebrew numerical values) of these letters, I summed them up, computed the median, and summed the values below the median.
 
@@ -87,6 +89,8 @@ print(sum(filter(lambda x: x<median(values), values)))
 Encoding this result in base64 provided the answer "MjUwMTU3Nw==," allowing me to proceed to the next stage.
 
 ![Hex Editor](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/8.jpg)
+
+Stage Three: The Usual Suspect
 
 We got to the last challenge:
 
@@ -167,6 +171,3 @@ With that, I completed the Shabak challenge. The experience was a thrilling and 
 
 ![Completion](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/11.jpg)
 
----
-
-This revised version enhances the storytelling aspect and ensures that the code snippets are well-integrated into the narrative flow.
