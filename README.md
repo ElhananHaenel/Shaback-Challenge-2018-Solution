@@ -83,6 +83,8 @@ print(len(values))
 print("Sum of values below median:")
 print(sum(filter(lambda x: x<median(values), values)))
 
+```
+
 
 Encoding this result in base64 provided the answer "MjUwMTU3Nw==," allowing me to proceed to the next stage.
 
