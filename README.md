@@ -16,7 +16,7 @@ This unexpected change revealed six marked points on the map. Intrigued, I zoome
 
 With excitement, I embarked on the software and data science track.
 
-##Stage One: Find The Code
+## Stage One: Find The Code
 
 The first stage presented a ZIP file that required a password to unlock. Knowing this would be a tough nut to crack, I used `Fcrakzip` on `rockyou.txt` wordlist to perform a dictionary attack.
 
@@ -28,7 +28,7 @@ After some effort, I successfully decrypted the ZIP file. Inside, I found two im
 
 With the correct answer in hand, I advanced to the next stage.
 
-##Stage Two: The Persian
+## Stage Two: The Persian
 
 In the second stage, I was given an image file that refused to open normally. I turned to a Hex Editor to dig deeper into the file. The hex values translated into the phrase: "return in base64 sum values below median." Additionally, I noticed a recurring pattern "U05," which represented Hebrew letters. Realizing that I needed to calculate the gematria values (Hebrew numerical values) of these letters, I summed them up, computed the median, and summed the values below the median.
 
@@ -90,7 +90,7 @@ Encoding this result in base64 provided the answer "MjUwMTU3Nw==," allowing me t
 
 ![Hex Editor](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/8.jpg)
 
-Stage Three: The Usual Suspect
+## Stage Three: The Usual Suspect
 
 We got to the last challenge:
 
