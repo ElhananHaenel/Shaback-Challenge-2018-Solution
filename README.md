@@ -18,10 +18,10 @@ With excitement, I embarked on the software and data science track.
 
 ## Stage One: Find The Code
 
-The first stage presented a ZIP file that required a password to unlock. Knowing this would be a tough nut to crack, I used `Fcrakzip` on `rockyou.txt` wordlist to perform a dictionary attack.
 
 ![ZIP File](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/4.jpg)
 
+The first stage presented a ZIP file that required a password to unlock. Knowing this would be a tough nut to crack, I used `Fcrakzip` on `rockyou.txt` wordlist to perform a dictionary attack.
 After some effort, I successfully decrypted the ZIP file. Inside, I found two images and a text file. The images seemed unimportant at first glance, but the text file contained Python code. After correcting and running the code, a new image was generated. Upon examining this image, I found a message: "BINARY, START 10,000, - FIBONACCI." Following these instructions, I extracted bits from the second image, starting at position 10,000 and using the Fibonacci sequence. This revealed the message "you got it."
 
 ![Decrypted Image](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/6.jpg)
