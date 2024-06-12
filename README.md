@@ -5,14 +5,15 @@
 **Note:** All challenge files are uploaded except for the third level due to its large file size (2GB).
 
 ## The Shabak Challenge Adventure
+![Shabak Logo](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/1.jpg)
 
 The Shabak challenge began with a seemingly ordinary page displaying the Shabak logo. At first glance, it appeared unremarkable. However, as soon as I hovered the cursor over the logo, it magically transformed into a map.
 
-![Shabak Logo](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/1.jpg)
+![Map with Marked Points](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/2.jpg)
 
 This unexpected change revealed six marked points on the map. Intrigued, I zoomed into each point, discovering that the shapes formed letters. Together, these letters spelled out "JOINUS," signaling the official start of the challenge.
 
-![Map with Marked Points](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/2.jpg)
+![Map with Marked Points](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/3.jpg)
 
 With excitement, I embarked on the software and data science track.
 
