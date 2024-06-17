@@ -2,7 +2,7 @@
 
 **Solution provided by:** Elhanan Haenel
 
-**Note:** All challenge files are uploaded except for the third level due to its large file size (2GB).
+**Note:** All challenge files are uploaded except for the third level due to its large files size.
 
 ## The Shabak Challenge Adventure
 ![Shabak Logo](https://github.com/ElhananHaenel/Shaback-Challenge-2018-solution/blob/main/image/1.jpg)
